@@ -1,0 +1,10 @@
+{
+    "rewrites": [
+        { "source": "/", "destination": "/index.html" },
+        { "source": "/en", "destination": "/index.html" },
+        { "source": "/en/about", "destination": "/pages/en/about-us.html" },
+        { "source": "/en/services", "destination": "/pages/en/services.html" },
+        { "source": "/en/privacy-policy", "destination": "/pages/en/privacy-policy.html" },
+        { "source": "/en/contact", "destination": "/pages/en/contact-us.html" }
+    ]
+}
